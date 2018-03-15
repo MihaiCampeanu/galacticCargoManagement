@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Problem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Problem_jar</output-path>
+    <root id="archive" name="Problem.jar">
+      <element id="module-output" name="Problem" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jarFile/com.fasterxml.jackson.databind.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jarFile/com.fasterxml.jackson.core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jarFile/jackson-annotations-2.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jarFile/json-simple-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jarFile/org.json.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
