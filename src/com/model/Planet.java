@@ -29,6 +29,10 @@ public class Planet {
         this.name = name;
     }
 
+    public String getHello()
+    {
+        return "Hello world!";
+    }
     public double getDistance() {
         return distance;
     }
