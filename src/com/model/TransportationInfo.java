@@ -17,6 +17,7 @@ public class TransportationInfo {
         this.trips = trips;
     }
 
+    
     public String getDriver_name() {
         return driver_name;
     }
